@@ -4,6 +4,4 @@ Our task for this assignment was to refactor this existing webpage's code to mak
 
 [![hw1screenshot.png](https://i.postimg.cc/MTL4sb3s/hw1screenshot.png)](https://postimg.cc/dk843dYd)
 
-![Alt text](/assets\images\hw1screenshot.png?raw=true"Screenshot")
-
 https://bosshogg86.github.io/homework1/
