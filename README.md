@@ -9,6 +9,7 @@ Our task for this assignment was to refactor this existing webpage's code to mak
 
 ## Deployed
 
-https://bosshogg86.github.io/homework1/
+    * Website: https://bosshogg86.github.io/homework1/
+    * GitHub Repo: https://github.com/bosshogg86/homework1
 
 [![hw1screenshot.png](https://i.postimg.cc/MTL4sb3s/hw1screenshot.png)](https://bosshogg86.github.io/homework1/)
