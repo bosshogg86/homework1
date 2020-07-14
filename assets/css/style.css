@@ -25,6 +25,7 @@ body {
 }
 
 /* changed .header divs to navs */
+
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -88,6 +89,7 @@ p {
 }
 
 /* Combined redundant classes into one class */
+
 .benefit-sections {
     margin-bottom: 32px;
     color: #ffffff;
@@ -121,6 +123,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* changed to footer class */
 
 .footer {
     padding: 30px;
